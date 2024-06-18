@@ -1,0 +1,7 @@
+C:\Users\ksrin\Documents\TINFO200\GLife\bin\Debug\GLife.exe.config
+C:\Users\ksrin\Documents\TINFO200\GLife\bin\Debug\GLife.exe
+C:\Users\ksrin\Documents\TINFO200\GLife\bin\Debug\GLife.pdb
+C:\Users\ksrin\Documents\TINFO200\GLife\obj\Debug\GLife.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksrin\Documents\TINFO200\GLife\obj\Debug\GLife.csproj.CoreCompileInputs.cache
+C:\Users\ksrin\Documents\TINFO200\GLife\obj\Debug\GLife.exe
+C:\Users\ksrin\Documents\TINFO200\GLife\obj\Debug\GLife.pdb
